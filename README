@@ -28,3 +28,6 @@ If you have an NFC-enabled Android phone or tablet, you can use this
 app to display the contents of your Black Hat USA 2012 RFID badge.  To
 use, simply start the app and touch your badge to the back of your
 device.
+
+You can either build the project yourself, or use the debug binary
+provided in the bin folder.
